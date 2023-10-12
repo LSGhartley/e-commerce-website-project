@@ -1,4 +1,4 @@
-# Buhle's Handmadwe Patterns Website
+# Buhle's Handmade Patterns Website
 This project is a database driven e-commerce website that I developed for my final year individual project using HTML5, CSS, JavaScript and PHP. The website allows users to browse, search, and purchase products from different categories. It also features a user authentication system, a shopping cart, and a checkout process. The website uses MySQL as the database management system and Bootstrap as the front-end framework.
 
 ### Installation
